@@ -28,11 +28,13 @@ Firebase Hosting
 # Screenshots of the App
 
 <h3>For Students(mobile version)</h3>
+
 ![qreg-s1](https://user-images.githubusercontent.com/60305441/94349018-7d7bc800-0006-11eb-8891-2c1cda38ea1a.jpg)
 ![qreg-s2](https://user-images.githubusercontent.com/60305441/94349021-7e145e80-0006-11eb-9309-c86c335cc21c.jpg)
 
 
 <h3>For Club Organizers/ Event Managers </h3>
+
 ![qreg](https://user-images.githubusercontent.com/60305441/94349035-9b492d00-0006-11eb-8f61-191435120066.jpg)
 ![qreg-p1](https://user-images.githubusercontent.com/60305441/94349036-9be1c380-0006-11eb-9c24-a45739dd4452.PNG)
 ![qreg-p2](https://user-images.githubusercontent.com/60305441/94349038-9d12f080-0006-11eb-937c-69b59c10fedf.PNG)
