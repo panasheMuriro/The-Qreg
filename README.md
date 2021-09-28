@@ -42,10 +42,3 @@ Firebase Hosting
 ![qreg-p4](https://user-images.githubusercontent.com/60305441/94349043-9edcb400-0006-11eb-836b-c28627c79fcf.PNG)
 ![qreg-p5](https://user-images.githubusercontent.com/60305441/94349045-a00de100-0006-11eb-90ec-59651c4b3389.PNG)
 ![qreg-p6](https://user-images.githubusercontent.com/60305441/94349047-a13f0e00-0006-11eb-8ca2-45f14868e0c6.PNG)
-
-
-
-Source code coming soon
-visit https://panashe-muriro-portfolio.web.app/ for more info
-
-
